@@ -1,5 +1,5 @@
-# Fracktory
-### Customized version of Cura for Fracktal range of printers
+# 3DK
+### Customized version of Cura for 3DK range of printers
 
 ---
 
@@ -47,7 +47,7 @@ Folder structure is as below:
 
 
     + Errors and Logging
-        + error logs can be found in windows under -> Users/< user >/.fracktory/< version >/output_log.txt
+        + error logs can be found in windows under -> Users/< user >/.3dk/< version >/output_log.txt
 
 4. How to run while development?
-    + Use the dist/fracktory.bat file to run fracktory after making changes
+    + Use the dist/3DK.bat file to run fracktory after making changes
